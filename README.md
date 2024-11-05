@@ -29,11 +29,6 @@ Here are some ideas to get you started:
       </a>
     </div>
     <div>
-      <a href="https://www.instagram.com/niko_paras/">
-        <img src="https://img.shields.io/badge/Instagram-b01ac4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-      </a>
-    </div>
-    <div>
       <a href="">
         <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
       </a>
