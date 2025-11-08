@@ -1,51 +1,53 @@
 <h1 style="color:#4285F4">
     Nickolas Paraskevopoulos
 </h1>
+
+<details>
+    <summary><b>Quick Links</b></summary>
 <div align="center">
-
-  <p><b>Quick Links</b></p>
-  <table>
-    <tr>
-      <td align="center" width="48">
-        <a href="https://nikoparas.co" title="Portfolio">
-          <img alt="Portfolio" height="24" src="https://cdn.simpleicons.org/googlechrome/4285F4">
-        </a>
-        <small>Portfolio</small>
-      </td>
-      <td align="center" width="32">
-        <a href="https://www.linkedin.com/in/nickolas-paraskevopoulos/" title="LinkedIn" aria-label="LinkedIn">
-          <img src="https://img.icons8.com/?size=32&id=13930&format=png&color=000000">
-        </a>
-        <small>Linkedin</small>
-      </td>
-      <td align="center" width="48">
-        <a href="https://github.com/nikoparas1" title="GitHub">
-          <img alt="GitHub" height="24" src="https://cdn.simpleicons.org/github/ffffff">
-        </a>
-        <small>Github</small>
-      </td>
-      <td align="center" width="48">
-        <a href="https://discord.com/invite/mwxPYQSf" title="Discord">
-          <img alt="Discord" height="24" src="https://cdn.simpleicons.org/discord/5865F2">
-        </a>
-        <small>Discord</small>
-      </td>
-      <td align="center" width="48">
-        <a href="mailto:nikoparas1@gmail.com" title="Email">
-          <img alt="Email" height="24" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000">
-        </a>
-        <small>Email</small>
-      </td>
-    </tr>
-  </table>
-
-  ---
-
+<table>
+<tr>
+  <td align="center" width="48">
+    <a href="https://nikoparas.co" title="Portfolio">
+      <img alt="Portfolio" height="24" src="https://cdn.simpleicons.org/googlechrome/4285F4">
+    </a>
+    <small>Portfolio</small>
+  </td>
+  <td align="center" width="32">
+    <a href="https://www.linkedin.com/in/nickolas-paraskevopoulos/" title="LinkedIn" aria-label="LinkedIn">
+      <img src="https://img.icons8.com/?size=32&id=13930&format=png&color=000000">
+    </a>
+    <small>Linkedin</small>
+  </td>
+  <td align="center" width="48">
+    <a href="https://github.com/nikoparas1" title="GitHub">
+      <img alt="GitHub" height="24" src="https://cdn.simpleicons.org/github/ffffff">
+    </a>
+    <small>Github</small>
+  </td>
+  <td align="center" width="48">
+    <a href="https://discord.com/invite/mwxPYQSf" title="Discord">
+      <img alt="Discord" height="24" src="https://cdn.simpleicons.org/discord/5865F2">
+    </a>
+    <small>Discord</small>
+  </td>
+  <td align="center" width="48">
+    <a href="mailto:nikoparas1@gmail.com" title="Email">
+      <img alt="Email" height="24" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000">
+    </a>
+    <small>Email</small>
+  </td>
+</tr>
+</table>
 </div>
+</details>
 
-<h1 style="color:#4285F4">Skills</h1>
+---
+
+<details>
+    <summary><b>Skills</b></summary>
+    
 <div align="center">
-
   <p><b>Languages</b></p>
   <table>
     <tr>
@@ -249,3 +251,7 @@
     </tr>
   </table>
 </div>
+</div>
+</details>
+
+---
