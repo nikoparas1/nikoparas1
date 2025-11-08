@@ -3,7 +3,7 @@
 </h1>
 
 <details>
-    <summary><b>Quick Links</b></summary>
+    <summary><b>Quick Links 🔗</b></summary>
 <div align="center">
 <table>
 <tr>
@@ -45,7 +45,7 @@
 ---
 
 <details>
-    <summary><b>Skills</b></summary>
+    <summary><b>Skills 🛠️</b></summary>
     
 <div align="center">
   <p><b>Languages</b></p>
