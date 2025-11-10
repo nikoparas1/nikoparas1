@@ -166,10 +166,10 @@
         <img src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" height="26" alt="PyTorch" title="PyTorch"><br/>
         <small>PyTorch</small>
       </td>
-      <td align="center" width="120">
+      <!-- <td align="center" width="120">
         <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="26" alt="TensorFlow" title="TensorFlow"><br/>
         <small>TensorFlow</small>
-      </td>
+      </td> -->
     </tr>
     <tr>
       <td align="center" width="120">
@@ -180,14 +180,14 @@
         <img src="https://cdn.simpleicons.org/langchain/2CA46A" height="26" alt="LangChain" title="LangChain"><br/>
         <small>LangChain</small>
       </td>
-      <td align="center" width="120">
+      <!-- <td align="center" width="120">
         <img src="https://cdn.simpleicons.org/onnx/005CED" height="26" alt="ONNX Runtime" title="ONNX Runtime"><br/>
         <small>ONNX Runtime</small>
       </td>
       <td align="center" width="120">
         <img src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-128x128_2x.png" height="26" alt="Core ML" title="Core ML"><br/>
         <small>Core ML</small>
-      </td>
+      </td> -->
     </tr>
   </table>
 
